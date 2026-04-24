@@ -90,7 +90,7 @@ Two steps:
 1.  Encode the WAV
 2.  Transcode the WAV into MP3
 
-The script `play.py` synthesizes an WAV file (not MP3).
+The script `play.py` synthesizes a WAV file (not MP3).
 The text to encode as CW into WAV is provided to the script as *stdin*
 
 Example of step 1:
