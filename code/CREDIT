@@ -1,0 +1,13 @@
+# Credits
+
+## The Python
+
+I cannot remember where I found `play.py` and the related utilities in Python.
+I think I had to tweak them a bit in order to make the process script-able.
+We are relying on packages that are available for Python installations.
+
+## `ffmpeg`
+
+The `ffmpeg` utility is ubiquitous and generally  used throughout situations for encoding, transcoding, etc..
+
+
