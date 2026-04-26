@@ -327,11 +327,11 @@ Go have fun!
 
 1. Psychoacoustic masking does the heavy lifting
 
-![Graph showing Threshold shift of masked tone (dB) vs. Frequency of masked tone (Hz)](mp3-curve1.jpg)
+![Graph showing Threshold shift of masked tone (dB) vs. Frequency of masked tone (Hz)](img/mp3-curve1.jpg)
 
-![Graph of Sound Pressure Level (SPL) (dB) vs Time (ms)](mp3-curve2.jpg)
+![Graph of Sound Pressure Level (SPL) (dB) vs Time (ms)](img/mp3-curve2.jpg)
 
-![Graph of Sound Pressure Level (SPL) (dB) vs frequency](mp3-curve3.jpg)
+![Graph of Sound Pressure Level (SPL) (dB) vs frequency](img/mp3-curve3.jpg)
 
 Around 192 kbps, MP3 has enough bits to model what your ears can actually 
 hear - and to hide what it throws away.
