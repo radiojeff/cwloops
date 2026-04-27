@@ -13,7 +13,11 @@ References:
 
 These steps assume you are using an Ubuntu Linux system (or close to it). If you're
 using Redhat (CentOS and flavors based on RH) the package installation commands
-are slightly different, but close.
+are slightly different, but close.  Instructions are included for *both* camps
+of Linux - Ubuntu and Redhat
+
+[See note for older/other Unix](#marker)
+
 
 ### Requirements
 
@@ -302,4 +306,13 @@ QSO as long or short as you want, involve more than two operators, etc..
 Remember that for realism, the pitch frequency and character speed and wpm speed
 should be slightly different for each participant so you can tell them apart
 in the full playback.
+
+<hr>
+
+<a id="marker"></a>
+
+## Other Unix:
+
+If you're running something else -- Unix like BSD, NetBSD, FreeBSD, SunOS, Solaris, AIX, Ultrix, HPUX, Esix, ... whatever... ,  or any other Linux flavor (so many to list) that isn't Debian based or Redhat based, then the tools are probably still easy to get. The author does not track down all of these.
+
 
