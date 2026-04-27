@@ -314,6 +314,8 @@ in the full playback.
 
 ## Other Unix:
 
+Regarding getting `ffmpeg` and `python` (and the sundry of standard Python libraries) --
+
 If you're running something else -- Unix like BSD, NetBSD, FreeBSD, SunOS, Solaris, AIX, Ultrix, HPUX, Esix, ... whatever... ,  or any other Linux flavor (so many to list) that isn't Debian based or Redhat based, then the tools are probably still easy to get. The author does not track down all of these.
 
 [Back to Top](#top)
