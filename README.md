@@ -8,7 +8,7 @@ This page has the main concept and documentation.
 References:
 
 * [Soapbox](SOAPBOX.md) - for other comments on practicing CW.
-* [Psychoacoustioc Masking](PSYCHOACOUSZTIC.md) - for detail explanation on MP3.
+* [Psychoacoustioc Masking](PSYCHOACOUSTIC.md) - for detail explanation on MP3.
 
 ## CW Loops Setup
 
